@@ -1,0 +1,185 @@
+{
+  "name": "GLIP",
+  "logoURI": "https://airsoftloard.aty.kr/1617595916198/editorimage/resize_d1563d26bb59444e94cc806a7bc967dd.png",
+  "keywords": [
+    "GLIP",
+    "tokensets",
+    "defi"
+  ],
+  "timestamp": "2021-04-29T16:00:17.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xd0b86b79ae4b8d7bb88b37ebe228ce343d79794e",
+      "name": "GLIP",
+      "symbol": "GLIP",
+      "decimals": 18,
+      "logoURI": "https://airsoftloard.aty.kr/1617595916198/editorimage/resize_d1563d26bb59444e94cc806a7bc967dd.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xAdA0A1202462085999652Dc5310a7A9e2BF3eD42",
+      "name": "CoinShares Gold and Cryptoassets Index",
+      "symbol": "CGI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/coinshares_gold.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xD83dfE003E7c42077186D690DD3D24a0c965ca4e",
+      "name": "Yam DAO House",
+      "symbol": "yamHOUSE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/yam_house.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+      "name": "Index",
+      "symbol": "INDEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/index.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C",
+      "name": "NFT INDEX",
+      "symbol": "NFTI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/tokens/nfti.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+      "name": "ETH 2x Flexible Leverage Index",
+      "symbol": "ETH2X-FLI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xEab53D2Dc181d5c2D316a3370471a028C621EdE7",
+      "name": "The BEST Portfolio",
+      "symbol": "BEST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/best.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe05b972eab7761b60b4a14558eac3fef78f306a",
+      "name": "Homebrew.Finance NFT Platforms",
+      "symbol": "MUG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mug.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1F66BC5867A329cFd0465A506c4ad96e6Be1aDC",
+      "name": "Metaverse Index",
+      "symbol": "HUUB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/huub.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4e6570c098B4C0E780E94fa10e1B3b23F5E28a8",
+      "name": "Nostradamus Capital Fund",
+      "symbol": "NCF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ncf.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x693391144D1e079e20cC64f795e9450C94966171",
+      "name": "Layer 2 Index",
+      "symbol": "LTI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/lti.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5CB21A4F27eda65263Dba6d56F1B9A2406e97E02",
+      "name": "ApeSzn Portfolio",
+      "symbol": "APE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/apeszn.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xA9f694b207B0215a7C3312c005EE36dE42CF09A3",
+      "name": "Arkenstone DeFi Index Fund",
+      "symbol": "ADIF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/arkenstone.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd59020ba341855285D1e3f22AeF92B58A08aD86A",
+      "name": "Supergroup Social Token Index",
+      "symbol": "GROUP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/supergroup.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+      "name": "Metaverse Index",
+      "symbol": "MVI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7633Da43dFd4Ee5A5da99740F077ca9d97aA0d0e",
+      "name": "Eco Defi Plus",
+      "symbol": "EDP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/helios.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Fd93Aa1A53b67D943912E4Cb1F338bb5BCebB09",
+      "name": "MoonQuant Trailblazer ETH Algo",
+      "symbol": "MQTBE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_mqtbe.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x618F30796284C3b0be3745dD6317d4f3dCf918Dc",
+      "name": "MoonQuant DeFi + Mainstream Crypto",
+      "symbol": "MQDMC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/defi_mqdmc.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x080C7EF51681925CE75A65F97D4E650d997Ef079",
+      "name": "MoonQuant Fixed Income Proxy",
+      "symbol": "MQFIX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqfix.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4A0Ca3D4C743C7cb8904b55aE426CfC1dE112Ba",
+      "name": "Risky Business",
+      "symbol": "RISKY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/risky.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbffa5e92BEd07Cd6F25A24d2D691945aDd3E0F98",
+      "name": "MoonQuant Trailblazer BTC Algo",
+      "symbol": "MQTBB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqbtc.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 4,
+    "patch": 0
+  }
+}
